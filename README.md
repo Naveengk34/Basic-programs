@@ -1,2 +1,2 @@
-# Basic-programs
+# programs
 Program works
